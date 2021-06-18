@@ -1,0 +1,7 @@
+﻿  ProgrammingLanguages-Module1-Task3.cpp
+C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3.cpp(55,12): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3.cpp(56,13): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3.cpp(73,12): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3.cpp(84,12): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3\ProgrammingLanguages-Module1-Task3.cpp(100,12): warning C4018:  <: несоответствие типов со знаком и без знака
+  ProgrammingLanguages-Module1-Task3.vcxproj -> C:\Users\DmitryAvanesov\source\repos\ProgrammingLanguages-Module1-Task3\Debug\ProgrammingLanguages-Module1-Task3.exe

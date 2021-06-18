@@ -1,0 +1,321 @@
+1:1 	Program  
+	1:1 	Element  
+		1:1 	Line  
+			1:1 	Variable declaration  
+				1:1 	Array keyword  
+				1:7 	Word  array1
+			1:14 	Assign  
+				1:14 	Assignment operation  
+				1:16 	Array  
+					1:16 	Opening square bracket symbol  
+					1:18 	String  32
+					1:23 	String  224
+					1:29 	String  -3
+					1:34 	Closing square bracket symbol  
+			1:35 	New line symbol  
+	2:1 	Element  
+		2:1 	Line  
+			2:1 	Variable declaration  
+				2:1 	Array keyword  
+				2:7 	Word  array2
+			2:14 	Assign  
+				2:14 	Assignment operation  
+				2:16 	Array  
+					2:16 	Opening square bracket symbol  
+					2:18 	Number  0
+					2:20 	Number  45
+					2:23 	Number  17
+					2:26 	Closing square bracket symbol  
+			2:27 	New line symbol  
+	4:1 	Element  
+		4:1 	Line  
+			4:1 	Variable declaration  
+				4:1 	String keyword  
+				4:8 	Word  res0
+			4:12 	New line symbol  
+	5:1 	Element  
+		5:1 	Line  
+			5:1 	Variable declaration  
+				5:1 	Integer keyword  
+				5:5 	Word  res1
+			5:9 	New line symbol  
+	6:1 	Element  
+		6:1 	Line  
+			6:1 	Variable declaration  
+				6:1 	Integer keyword  
+				6:5 	Word  res2
+			6:9 	New line symbol  
+	9:1 	Element  
+		9:1 	If block  
+			9:1 	If keyword  
+			9:4 	Condition  
+				9:4 	Comparison  
+					9:4 	Expression  
+						9:4 	Name  
+							9:4 	Number  2
+						9:6 	Expression operation  
+							9:6 	Multiplication operation  
+						9:8 	Opening parenthesis symbol  
+						9:10 	Name  
+							9:10 	Array element  array2[0]
+						9:20 	Expression operation  
+							9:20 	Division operation  
+						9:22 	Name  
+							9:22 	Number  2
+						9:24 	Closing parenthesis symbol  
+					9:26 	Comparison operation  
+						9:26 	Equality operation  
+					9:29 	Expression  
+						9:29 	Name  
+							9:29 	Array element  array2[0]
+			9:39 	Opening brace symbol  
+			10:3 	Line  
+				10:3 	Expression  
+					10:3 	Name  
+						10:3 	Word  res0
+				10:8 	Assign  
+					10:8 	Assignment operation  
+					10:10 	Expression  
+						10:10 	Name  
+							10:10 	Array element  array1[0]
+						10:20 	Expression operation  
+							10:20 	Addition operation  
+						10:22 	Name  
+							10:22 	Array element  array2[0]
+				10:31 	New line symbol  
+			11:1 	Closing brace symbol  
+	12:1 	Element  
+		12:1 	If block  
+			12:1 	If keyword  
+			12:4 	Condition  
+				12:4 	Comparison  
+					12:4 	Expression  
+						12:4 	Name  
+							12:4 	Number  2
+						12:6 	Expression operation  
+							12:6 	Multiplication operation  
+						12:8 	Opening parenthesis symbol  
+						12:10 	Name  
+							12:10 	Array element  array2[0]
+						12:20 	Expression operation  
+							12:20 	Division operation  
+						12:22 	Name  
+							12:22 	Number  2
+						12:24 	Closing parenthesis symbol  
+					12:26 	Comparison operation  
+						12:26 	Inequality operation  
+					12:29 	Expression  
+						12:29 	Name  
+							12:29 	Array element  array2[0]
+			12:39 	Opening brace symbol  
+			13:3 	Line  
+				13:3 	Expression  
+					13:3 	Name  
+						13:3 	Word  res0
+				13:8 	Assign  
+					13:8 	Assignment operation  
+					13:10 	Expression  
+						13:10 	Name  
+							13:10 	Array element  array2[0]
+						13:20 	Expression operation  
+							13:20 	Addition operation  
+						13:22 	Name  
+							13:22 	Array element  array1[0]
+				13:31 	New line symbol  
+			14:1 	Closing brace symbol  
+	16:1 	Element  
+		16:1 	If block  
+			16:1 	If keyword  
+			16:4 	Condition  
+				16:4 	Comparison  
+					16:4 	Expression  
+						16:4 	Name  
+							16:4 	Number  2
+						16:6 	Expression operation  
+							16:6 	Multiplication operation  
+						16:8 	Opening parenthesis symbol  
+						16:10 	Name  
+							16:10 	Array element  array2[1]
+						16:20 	Expression operation  
+							16:20 	Division operation  
+						16:22 	Name  
+							16:22 	Number  2
+						16:24 	Closing parenthesis symbol  
+					16:26 	Comparison operation  
+						16:26 	Equality operation  
+					16:29 	Expression  
+						16:29 	Name  
+							16:29 	Array element  array2[1]
+			16:39 	Opening brace symbol  
+			17:3 	Line  
+				17:3 	Expression  
+					17:3 	Name  
+						17:3 	Word  res1
+				17:8 	Assign  
+					17:8 	Assignment operation  
+					17:10 	Expression  
+						17:10 	Name  
+							17:10 	Array element  array1[1]
+						17:20 	Expression operation  
+							17:20 	Addition operation  
+						17:22 	Name  
+							17:22 	Array element  array2[1]
+				17:31 	New line symbol  
+			18:1 	Closing brace symbol  
+	19:1 	Element  
+		19:1 	If block  
+			19:1 	If keyword  
+			19:4 	Condition  
+				19:4 	Comparison  
+					19:4 	Expression  
+						19:4 	Name  
+							19:4 	Number  2
+						19:6 	Expression operation  
+							19:6 	Multiplication operation  
+						19:8 	Opening parenthesis symbol  
+						19:10 	Name  
+							19:10 	Array element  array2[1]
+						19:20 	Expression operation  
+							19:20 	Division operation  
+						19:22 	Name  
+							19:22 	Number  2
+						19:24 	Closing parenthesis symbol  
+					19:26 	Comparison operation  
+						19:26 	Inequality operation  
+					19:29 	Expression  
+						19:29 	Name  
+							19:29 	Array element  array2[1]
+			19:39 	Opening brace symbol  
+			20:3 	Line  
+				20:3 	Expression  
+					20:3 	Name  
+						20:3 	Word  res1
+				20:8 	Assign  
+					20:8 	Assignment operation  
+					20:10 	Expression  
+						20:10 	Name  
+							20:10 	Array element  array2[1]
+						20:20 	Expression operation  
+							20:20 	Addition operation  
+						20:22 	Name  
+							20:22 	Array element  array1[1]
+				20:31 	New line symbol  
+			21:1 	Closing brace symbol  
+	23:1 	Element  
+		23:1 	If block  
+			23:1 	If keyword  
+			23:4 	Condition  
+				23:4 	Comparison  
+					23:4 	Expression  
+						23:4 	Name  
+							23:4 	Number  2
+						23:6 	Expression operation  
+							23:6 	Multiplication operation  
+						23:8 	Opening parenthesis symbol  
+						23:10 	Name  
+							23:10 	Array element  array2[2]
+						23:20 	Expression operation  
+							23:20 	Division operation  
+						23:22 	Name  
+							23:22 	Number  2
+						23:24 	Closing parenthesis symbol  
+					23:26 	Comparison operation  
+						23:26 	Equality operation  
+					23:29 	Expression  
+						23:29 	Name  
+							23:29 	Array element  array2[2]
+			23:39 	Opening brace symbol  
+			24:3 	Line  
+				24:3 	Expression  
+					24:3 	Name  
+						24:3 	Word  res2
+				24:8 	Assign  
+					24:8 	Assignment operation  
+					24:10 	Expression  
+						24:10 	Name  
+							24:10 	Array element  array1[2]
+						24:20 	Expression operation  
+							24:20 	Addition operation  
+						24:22 	Name  
+							24:22 	Array element  array2[2]
+				24:31 	New line symbol  
+			25:1 	Closing brace symbol  
+	26:1 	Element  
+		26:1 	If block  
+			26:1 	If keyword  
+			26:4 	Condition  
+				26:4 	Comparison  
+					26:4 	Expression  
+						26:4 	Name  
+							26:4 	Number  2
+						26:6 	Expression operation  
+							26:6 	Multiplication operation  
+						26:8 	Opening parenthesis symbol  
+						26:10 	Name  
+							26:10 	Array element  array2[2]
+						26:20 	Expression operation  
+							26:20 	Division operation  
+						26:22 	Name  
+							26:22 	Number  2
+						26:24 	Closing parenthesis symbol  
+					26:26 	Comparison operation  
+						26:26 	Inequality operation  
+					26:29 	Expression  
+						26:29 	Name  
+							26:29 	Array element  array2[2]
+			26:39 	Opening brace symbol  
+			27:3 	Line  
+				27:3 	Expression  
+					27:3 	Name  
+						27:3 	Word  res2
+				27:8 	Assign  
+					27:8 	Assignment operation  
+					27:10 	Expression  
+						27:10 	Name  
+							27:10 	Array element  array2[2]
+						27:20 	Expression operation  
+							27:20 	Addition operation  
+						27:22 	Name  
+							27:22 	Array element  array1[2]
+				27:31 	New line symbol  
+			28:1 	Closing brace symbol  
+	31:1 	Element  
+		31:1 	Line  
+			31:1 	Variable declaration  
+				31:1 	Integer keyword  
+				31:5 	Word  a
+			31:7 	Assign  
+				31:7 	Assignment operation  
+				31:9 	Expression  
+					31:9 	Name  
+						31:9 	Number  1
+			31:10 	New line symbol  
+	33:1 	Element  
+		33:1 	While block  
+			33:1 	While keyword  
+			33:7 	Condition  
+				33:7 	Comparison  
+					33:7 	Expression  
+						33:7 	Name  
+							33:7 	Word  a
+					33:9 	Comparison operation  
+						33:9 	Less operation  
+					33:11 	Expression  
+						33:11 	Name  
+							33:11 	String  bbbbb
+			33:19 	Opening brace symbol  
+			34:3 	Line  
+				34:3 	Expression  
+					34:3 	Name  
+						34:3 	Word  a
+				34:5 	Assign  
+					34:5 	Assignment operation  
+					34:7 	Expression  
+						34:7 	Name  
+							34:7 	Word  a
+						34:9 	Expression operation  
+							34:9 	Addition operation  
+						34:11 	Name  
+							34:11 	Number  1
+				34:12 	New line symbol  
+			35:1 	Closing brace symbol  

@@ -1,0 +1,151 @@
+Int variables:
+Bool variables:
+String variables:
+Array<int> variables:
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+Bool variables:
+String variables:
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+Bool variables:
+String variables:
+res0 ''
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+res1 0
+Bool variables:
+String variables:
+res0 ''
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+res1 0
+res2 0
+Bool variables:
+String variables:
+res0 ''
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+res1 0
+res2 0
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+res1 269
+res2 0
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+a 1
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+a 2
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+a 3
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+a 4
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+
+Int variables:
+a 5
+res1 269
+res2 14
+Bool variables:
+String variables:
+res0 '320'
+Array<int> variables:
+array2 [ 0 45 17 ]
+Array<string> variables:
+array1 [ '32' '224' '-3' ]
+
+

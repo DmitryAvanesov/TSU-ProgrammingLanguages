@@ -1,0 +1,174 @@
+1:1 	Array keyword  
+1:7 	Word  array1
+1:14 	Assignment operation  
+1:16 	Opening square bracket symbol  
+1:18 	String  32
+1:23 	String  224
+1:29 	String  -3
+1:34 	Closing square bracket symbol  
+1:35 	New line symbol  
+2:1 	Array keyword  
+2:7 	Word  array2
+2:14 	Assignment operation  
+2:16 	Opening square bracket symbol  
+2:18 	Number  0
+2:20 	Number  45
+2:23 	Number  17
+2:26 	Closing square bracket symbol  
+2:27 	New line symbol  
+3:2 	New line symbol  
+4:1 	String keyword  
+4:8 	Word  res0
+4:12 	New line symbol  
+5:1 	Integer keyword  
+5:5 	Word  res1
+5:9 	New line symbol  
+6:1 	Integer keyword  
+6:5 	Word  res2
+6:9 	New line symbol  
+7:1 	New line symbol  
+8:2 	New line symbol  
+9:1 	If keyword  
+9:4 	Number  2
+9:6 	Multiplication operation  
+9:8 	Opening parenthesis symbol  
+9:10 	Array element  array2[0]
+9:20 	Division operation  
+9:22 	Number  2
+9:24 	Closing parenthesis symbol  
+9:26 	Equality operation  
+9:29 	Array element  array2[0]
+9:39 	Opening brace symbol  
+9:40 	New line symbol  
+10:3 	Word  res0
+10:8 	Assignment operation  
+10:10 	Array element  array1[0]
+10:20 	Addition operation  
+10:22 	Array element  array2[0]
+10:31 	New line symbol  
+11:1 	Closing brace symbol  
+11:2 	New line symbol  
+12:1 	If keyword  
+12:4 	Number  2
+12:6 	Multiplication operation  
+12:8 	Opening parenthesis symbol  
+12:10 	Array element  array2[0]
+12:20 	Division operation  
+12:22 	Number  2
+12:24 	Closing parenthesis symbol  
+12:26 	Inequality operation  
+12:29 	Array element  array2[0]
+12:39 	Opening brace symbol  
+12:40 	New line symbol  
+13:3 	Word  res0
+13:8 	Assignment operation  
+13:10 	Array element  array2[0]
+13:20 	Addition operation  
+13:22 	Array element  array1[0]
+13:31 	New line symbol  
+14:1 	Closing brace symbol  
+14:2 	New line symbol  
+15:2 	New line symbol  
+16:1 	If keyword  
+16:4 	Number  2
+16:6 	Multiplication operation  
+16:8 	Opening parenthesis symbol  
+16:10 	Array element  array2[1]
+16:20 	Division operation  
+16:22 	Number  2
+16:24 	Closing parenthesis symbol  
+16:26 	Equality operation  
+16:29 	Array element  array2[1]
+16:39 	Opening brace symbol  
+16:40 	New line symbol  
+17:3 	Word  res1
+17:8 	Assignment operation  
+17:10 	Array element  array1[1]
+17:20 	Addition operation  
+17:22 	Array element  array2[1]
+17:31 	New line symbol  
+18:1 	Closing brace symbol  
+18:2 	New line symbol  
+19:1 	If keyword  
+19:4 	Number  2
+19:6 	Multiplication operation  
+19:8 	Opening parenthesis symbol  
+19:10 	Array element  array2[1]
+19:20 	Division operation  
+19:22 	Number  2
+19:24 	Closing parenthesis symbol  
+19:26 	Inequality operation  
+19:29 	Array element  array2[1]
+19:39 	Opening brace symbol  
+19:40 	New line symbol  
+20:3 	Word  res1
+20:8 	Assignment operation  
+20:10 	Array element  array2[1]
+20:20 	Addition operation  
+20:22 	Array element  array1[1]
+20:31 	New line symbol  
+21:1 	Closing brace symbol  
+21:2 	New line symbol  
+22:2 	New line symbol  
+23:1 	If keyword  
+23:4 	Number  2
+23:6 	Multiplication operation  
+23:8 	Opening parenthesis symbol  
+23:10 	Array element  array2[2]
+23:20 	Division operation  
+23:22 	Number  2
+23:24 	Closing parenthesis symbol  
+23:26 	Equality operation  
+23:29 	Array element  array2[2]
+23:39 	Opening brace symbol  
+23:40 	New line symbol  
+24:3 	Word  res2
+24:8 	Assignment operation  
+24:10 	Array element  array1[2]
+24:20 	Addition operation  
+24:22 	Array element  array2[2]
+24:31 	New line symbol  
+25:1 	Closing brace symbol  
+25:2 	New line symbol  
+26:1 	If keyword  
+26:4 	Number  2
+26:6 	Multiplication operation  
+26:8 	Opening parenthesis symbol  
+26:10 	Array element  array2[2]
+26:20 	Division operation  
+26:22 	Number  2
+26:24 	Closing parenthesis symbol  
+26:26 	Inequality operation  
+26:29 	Array element  array2[2]
+26:39 	Opening brace symbol  
+26:40 	New line symbol  
+27:3 	Word  res2
+27:8 	Assignment operation  
+27:10 	Array element  array2[2]
+27:20 	Addition operation  
+27:22 	Array element  array1[2]
+27:31 	New line symbol  
+28:1 	Closing brace symbol  
+28:2 	New line symbol  
+29:1 	New line symbol  
+30:1 	New line symbol  
+31:1 	Integer keyword  
+31:5 	Word  a
+31:7 	Assignment operation  
+31:9 	Number  1
+31:10 	New line symbol  
+32:1 	New line symbol  
+33:1 	While keyword  
+33:7 	Word  a
+33:9 	Less operation  
+33:11 	String  bbbbb
+33:19 	Opening brace symbol  
+33:20 	New line symbol  
+34:3 	Word  a
+34:5 	Assignment operation  
+34:7 	Word  a
+34:9 	Addition operation  
+34:11 	Number  1
+34:12 	New line symbol  
+35:1 	Closing brace symbol  
+35:2 	New line symbol  
